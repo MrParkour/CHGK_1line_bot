@@ -1,0 +1,5 @@
+sql_test.py
+__pycache__
+users.txt
+sessionLog.txt
+config.py
